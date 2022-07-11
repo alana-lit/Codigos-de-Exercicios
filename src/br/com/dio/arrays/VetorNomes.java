@@ -1,7 +1,8 @@
+package br.com.dio.arrays;
+
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class VetorNomes {
 
