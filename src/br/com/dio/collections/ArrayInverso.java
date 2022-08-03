@@ -1,4 +1,4 @@
-package br.com.dio.arrays;
+package br.com.dio.collections;
 
 public class ArrayInverso {
 

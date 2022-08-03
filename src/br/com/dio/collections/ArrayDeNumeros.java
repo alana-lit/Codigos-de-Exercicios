@@ -1,4 +1,8 @@
-package br.com.dio.arrays;
+package br.com.dio.collections;
+
+/* Código de estudo da classe Random
+*
+* Alana Lima Tavares*/
 
 import java.util.Random;
 
